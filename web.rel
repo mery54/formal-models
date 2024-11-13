@@ -1,0 +1,166 @@
+;; RefTeX parse info file
+;; File: /Users/mery/webmery/web.tex
+;; User: mery (Dominique Méry)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi t)
+
+(bibview-cache)
+
+(master-dir . "/Users/mery/webmery/")
+
+(label-numbers)
+
+(bof "/Users/mery/webmery/web.tex")
+
+(bof "/Users/mery/webmery/prelude.tex")
+
+(eof "/Users/mery/webmery/prelude.tex")
+
+(bof "/Users/mery/webmery/eb2latex.tex")
+
+(eof "/Users/mery/webmery/eb2latex.tex")
+
+(toc "toc" "    1 List of PhD Supervisions" "/Users/mery/webmery/web.tex" nil 2 "1" "\\section{List of PhD Supervisions}" 11999)
+
+("sec:list-phd-superv" "s" nil "/Users/mery/webmery/web.tex" nil "")
+
+(toc "toc" "    1 Teaching" "/Users/mery/webmery/web.tex" nil 2 "1" "\\section{Teaching}" 2229)
+
+(toc "toc" "    2 Research" "/Users/mery/webmery/web.tex" nil 2 "2" "\\section{Research}" 2511)
+
+(toc "toc" "    3 Publications " "/Users/mery/webmery/web.tex" nil 2 "3" "\\section{Publications }" 2818)
+
+("sec:publications-" "s" nil "/Users/mery/webmery/web.tex" nil "")
+
+(toc "toc" "    1 Teaching Materials" "/Users/mery/webmery/web.tex" nil 2 "1" "\\section{Teaching Materials}" 2229)
+
+(toc "toc" "    1 Teaching Materials" "/Users/mery/webmery/web.tex" nil 2 "1" "\\section{Teaching Materials}" 2229)
+
+(toc "toc" "    2 Course MCFSI at Telecom Nancy" "/Users/mery/webmery/web.tex" nil 2 "2" "\\section{Course MCFSI  at Telecom Nancy}" 2532)
+
+("sec:course-mcfsi-at" "s" "\\subsection{Slides for the course MCFSI}  \\subsubsection{Lecture 1 \\href{http://mery54.github.io/tea" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "      2.1 Slides for the course MCFSI" "/Users/mery/webmery/web.tex" nil 3 "2.1" "\\subsection{Slides for the course MCFSI}" 2532)
+
+("sec:slides" "s" "\\subsubsection{Lecture 1 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-lect1.pdf}" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "        2.1.1 Lecture 1 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-lect1.pdf}{The Modelling " "/Users/mery/webmery/web.tex" nil 4 "2.1.1" "\\subsubsection{Lecture 1
+  \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-lect1.pdf}{The 
+    Modelling Language Event-B}. 
+}" 2532)
+
+(toc "toc" "        2.1.2 Lecture 2 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-po.pdf}{Proof Obligations" "/Users/mery/webmery/web.tex" nil 4 "2.1.2" "\\subsubsection{Lecture 2
+    \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-po.pdf}{Proof
+      Obligations}.}" 2532)
+
+(toc "toc" "        2.1.3 Lecture 3 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-verification.pdf}{Checkin" "/Users/mery/webmery/web.tex" nil 4 "2.1.3" "\\subsubsection{Lecture 3
+    \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-verification.pdf}{Checking
+      contracts using Event-B}.}" 2532)
+
+(toc "toc" "        2.1.4 Lecture 4 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-lect2.pdf}{Correctness by" "/Users/mery/webmery/web.tex" nil 4 "2.1.4" "\\subsubsection{Lecture 4
+    \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-lect2.pdf}{Correctness by Construction with the  
+      Modelling Langua" 2532)
+
+("sec:lect-3-hrefhttp:m" "s" "\\subsubsection{ Lecture 5 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-lect3.pdf" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "        2.1.5 Lecture 5 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-lect3.pdf}{Access Control" "/Users/mery/webmery/web.tex" nil 4 "2.1.5" "\\subsubsection{ Lecture 5 
+    \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/mcfsi-lect3.pdf}{Access 
+      Control }
+}" 2532)
+
+(toc "toc" "      2.2 Tutorials" "/Users/mery/webmery/web.tex" nil 3 "2.2" "\\subsection{Tutorials}" 2532)
+
+(toc "toc" "      2.3 Project" "/Users/mery/webmery/web.tex" nil 3 "2.3" "\\subsection{Project}" 2532)
+
+("sec:project" "s" "The assessment of students is based on two works: \\begin{itemize} " "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "      2.4 Event-B Models" "/Users/mery/webmery/web.tex" nil 3 "2.4" "\\subsection{Event-B Models}" 2532)
+
+("sec:event-b-models" "s" "The Event-B models related to the tutoriuals are given in the next list: % are at the \\href{http://m" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "        2.4.1 Event-B Archives for the lectures" "/Users/mery/webmery/web.tex" nil 4 "2.4.1" "\\subsubsection{Event-B Archives for the  lectures}" 2532)
+
+(toc "toc" "        2.4.2 Event-B Archives for the tutorial 1" "/Users/mery/webmery/web.tex" nil 4 "2.4.2" "\\subsubsection{Event-B Archives for   the tutorial 1}" 2532)
+
+("sec:event-b-archives" "s" "\\href{http://mery54.github.io/teaching/mosos/models/mcfsi1-ex1-tut1.zip}{Archive Rodin mcfsi1-ex1-tu" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "        2.4.3 Event-B Archives for the tutorial 2" "/Users/mery/webmery/web.tex" nil 4 "2.4.3" "\\subsubsection{Event-B Archives for   the tutorial 2}" 2532)
+
+("sec:event-b-archives" "s" "\\href{http://mery54.github.io/teaching/mosos/models/alg-maxtwonumbers.zip}{Archive Rodin alg-maxtwon" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "        2.4.4 Event-B Archives for the tutorial 3" "/Users/mery/webmery/web.tex" nil 4 "2.4.4" "\\subsubsection{Event-B Archives for   the tutorial 3}" 2532)
+
+("sec:event-b-archives" "s" "\\href{http://mery54.github.io/teaching/mosos/models/mcfsi2-ex1-plugin.zip}{Archive Rodin mcfsi2-ex1-" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "    3 Course MsC in Computer Science: Modelling and verifying software-based systems for Master in Compure" "/Users/mery/webmery/web.tex" nil 2 "3" "\\section{Course  MsC in Computer Science:  Modelling and verifying software-based systems for
+  Master in Compurer Science of the University of Lorraine}" 2532)
+
+("sec:course-modell-verify" "s" "\\subsection{Slides of the course}  \\subsubsection{Lecture 1 \\href{http://mery54.github.io/teaching/m" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "      3.1 Slides of the course" "/Users/mery/webmery/web.tex" nil 3 "3.1" "\\subsection{Slides of the course}" 2532)
+
+("sec:slides-course" "s" "\\subsubsection{Lecture 1 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect1-1." "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "        3.1.1 Lecture 1 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect1-1.pdf}{The Modell" "/Users/mery/webmery/web.tex" nil 4 "3.1.1" "\\subsubsection{Lecture 1 
+  \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect1-1.pdf}{The 
+    Modelling Language Event-B}.}" 2532)
+
+(toc "toc" "        3.1.2 Lecture 2 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect1-2.pdf}{Proof Obli" "/Users/mery/webmery/web.tex" nil 4 "3.1.2" "\\subsubsection{ Lecture 2 
+    \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect1-2.pdf}{Proof 
+      Obligations}.}" 2532)
+
+(toc "toc" "        3.1.3 Lecture 3 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect2.pdf}{Correctness " "/Users/mery/webmery/web.tex" nil 4 "3.1.3" "\\subsubsection{Lecture 3 
+    \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect2.pdf}{Correctness by Construction with the  
+      Modelling Lan" 2532)
+
+(toc "toc" "        3.1.4 Lecture 4 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect3.pdf}{Access Contr" "/Users/mery/webmery/web.tex" nil 4 "3.1.4" "\\subsubsection{ Lecture 4 
+    \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect3.pdf}{Access 
+      Control }}" 2532)
+
+(toc "toc" "        3.1.5 Lecture 5 \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect-verification.pdf}{" "/Users/mery/webmery/web.tex" nil 4 "3.1.5" "\\subsubsection{ Lecture 5
+    \\href{http://mery54.github.io/teaching/mosos/lecturesnotes/masterillect-verification.pdf}{Checking contracts with Event-B}}" 2532)
+
+(toc "toc" "      3.2 Tutorials" "/Users/mery/webmery/web.tex" nil 3 "3.2" "\\subsection{Tutorials}" 2532)
+
+(toc "toc" "      3.3 Event-B Models" "/Users/mery/webmery/web.tex" nil 3 "3.3" "\\subsection{Event-B Models}" 2532)
+
+("sec:event-b-models" "s" "The Event-B models related to the tutoriuals are given in the next list: % are at the \\href{http://m" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "        3.3.1 Event-B Archives for the lectures" "/Users/mery/webmery/web.tex" nil 4 "3.3.1" "\\subsubsection{Event-B Archives for the  lectures}" 2532)
+
+(toc "toc" "        3.3.2 Event-B Archives for the tutorial 1" "/Users/mery/webmery/web.tex" nil 4 "3.3.2" "\\subsubsection{Event-B Archives for   the tutorial 1}" 2532)
+
+("sec:event-b-archives" "s" "\\href{http://mery54.github.io/teaching/mosos/models/ex1-tut1.zip}{Archive Rodin ex1-tut1.zip.} \\href" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "        3.3.3 Event-B Archives for the tutorial 2" "/Users/mery/webmery/web.tex" nil 4 "3.3.3" "\\subsubsection{Event-B Archives for   the tutorial 2}" 2532)
+
+("sec:event-b-archives" "s" "\\paragraph{Exercice 1 Tutorial 2} \\href{http://mery54.github.io/teaching/mosos/models/fx1-tut2.zip}{" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "          3.3.3.1 Exercice 1 Tutorial 2" "/Users/mery/webmery/web.tex" nil 5 "3.3.3.1" "\\paragraph{Exercice 1 Tutorial 2}" 2532)
+
+(toc "toc" "          3.3.3.2 Exercice 2 Tutorial 2" "/Users/mery/webmery/web.tex" nil 5 "3.3.3.2" "\\paragraph{Exercice 2 Tutorial 2}" 2532)
+
+(toc "toc" "    4 Course DISCONT: Modelling hybrid systems" "/Users/mery/webmery/web.tex" nil 2 "4" "\\section{Course DISCONT: Modelling hybrid systems}" 2532)
+
+("sec:course-discont" "s" "\\subsection{Documentation}  The report entitled \\href{https://inria.hal.science/hal-02895528v1 }{A R" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "      4.1 Documentation" "/Users/mery/webmery/web.tex" nil 3 "4.1" "\\subsection{Documentation}" 2532)
+
+("sec:documentation" "s" "The report entitled \\href{https://inria.hal.science/hal-02895528v1 }{A Refinement Strategy for Hybri" "/Users/mery/webmery/web.tex" nil)
+
+(toc "toc" "      4.2 Slides for the course 2020-2021" "/Users/mery/webmery/web.tex" nil 3 "4.2" "\\subsection{Slides for the course 2020-2021}" 2532)
+
+(toc "toc" "      4.3 Slides for the course 2021-2022" "/Users/mery/webmery/web.tex" nil 3 "4.3" "\\subsection{Slides for the course 2021-2022}" 2532)
+
+(bib "/Users/mery/webmery/references.bib")
+
+(eof "/Users/mery/webmery/web.tex")
+))
+

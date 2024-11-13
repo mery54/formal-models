@@ -1,0 +1,1413 @@
+\begin{thebibliography}{100}
+
+\bibitem{abdelwahed:hal-03376084}
+{\em {Model and Data Engineering. 8th International Conference, MEDI 2018,
+  Proceedings}}, Lecture Notes in Computer Science. {Springer}, 2018.
+
+\bibitem{s:hal-03529572}
+{\em {MEMOCODE '21: Proceedings of the 19th ACM-IEEE International Conference
+  on Formal Methods and Models for System Design}}, Virtual, China, November
+  2021. {ACM}.
+
+\bibitem{raschke:hal-03529208}
+{\em {Rigorous State-Based Methods-8th International Conference, ABZ 2021, Ulm,
+  Germany, June 9--11, 2021, Proceedings}}, volume 12709 of {\em Lecture Notes
+  in Computer Science}, Ulm, Germany, June 2021. {Springer International
+  Publishing}.
+
+\bibitem{glasser:hal-04183902}
+{\em {Rigorous State-Based Methods - 9th International Conference, ABZ 2023,
+  Nancy, France, May 30 - June 2, 2023, Proceedings}}, volume 14010. {Springer
+  Nature Switzerland}, 2023.
+
+\bibitem{abdelwahed:hal-01933975}
+El~Hassan Abdelwahed, Ladjel Bellatreche, Djamal Benslimane, Matteo Golfarelli,
+  St{\'e}phane Jean, Dominique M{\'e}ry, Kazumi Nakamatsu, and Carlos Ordonez.
+\newblock {New Trends in Model and Data Engineering}, October 2018.
+
+\bibitem{abraham:inria-00000565}
+Denis Abraham, Dominique Cansell, Patrick Ditsch, Dominique M{\'e}ry, and Cyril
+  Proch.
+\newblock {Synthesis of the QoS for digital TV services}.
+\newblock In {\em {First International Workshop on Incentive Based Computing -
+  IBC'05}}, Amsterdam/Hollande, September 2005.
+
+\bibitem{abrial:inria-00100598}
+Jean-Raymond Abrial, Dominique Cansell, and Dominique M{\'e}ry.
+\newblock {Specification and Design of the Leader Election Protocol of IEEE
+  1394}.
+\newblock In S.~Maharaj, J.~Romijn, and C.~Shankland, editors, {\em {IEEE 1394
+  (FireWire) Workshop: International Workshop on Application of Formal Methods
+  to IEEE 1394 Standard}}, page 3 p, Berlin, Germany, 2001. {University of
+  Stirling}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{abrial:inria-00099531}
+Jean-Raymond Abrial, Dominique Cansell, and Dominique M{\'e}ry.
+\newblock {A Mechanically Proved and Incremental Development of IEEE 1394 Tree
+  Identify Protocol}.
+\newblock {\em {Formal Aspects of Computing}}, 14(3):215--227, 2003.
+\newblock Article dans revue scientifique avec comit{\'e} de lecture.
+
+\bibitem{abrial:inria-00099793}
+Jean-Raymond Abrial, Dominique Cansell, and Dominique M{\'e}ry.
+\newblock {Formal derivation of spanning trees algorithms}.
+\newblock In Didier Bert, Jonathan~Peter Bowen, Steve King, and Marina Walden,
+  editors, {\em {Third International Conference of B and Z Users - ZB'2003}},
+  volume 2651 of {\em Lecture Notes in Computer Science}, pages 457--476,
+  Turku, Finland, 2003. {Marina Walden}, {Springer Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{abrial:inria-00001245}
+Jean-Raymond Abrial, Dominique Cansell, and Dominique M{\'e}ry.
+\newblock {Refinement and Reachability in Event\_B}.
+\newblock In Helen Treharne, Steve King, Martin Henson, and Steve Schneider,
+  editors, {\em {ZB 2005 : Formal Specification and Development in Z and B :
+  4th International Conference of B and Z Users}}, volume 3455 of {\em Lecture
+  Notes in Computer Science}, pages 222--241, Guilford/UK, April 2005.
+  {Springer}.
+\newblock http//www.springerlink.com.
+
+\bibitem{aitameur:hal-01797538}
+Yamine A{\"i}t-Ameur, Idir Ait-Sadoune, Pierre Cast{\'e}ran, John~Paul Gibson,
+  Kahina Hacid, Souad Kherroubi, Dominique M{\'e}ry, Linda Mohand~Oussaid,
+  Neeraj~Kumar Singh, and Laurent Voisin.
+\newblock {On the importance of explicit domain modelling in refinement-based
+  modelling design: experiments with Event-B}.
+\newblock In Michael Butler, Alexander Raschke, Thai~Son Hoang, and Klaus
+  Reichl, editors, {\em {6th International Conference on Abstract State
+  Machines, Alloy, B, TLA, VDM, and Z (ABZ 2018)}}, volume 10817 of {\em
+  Lecture Notes in Computer Science}, pages 425--430, Southampton, United
+  Kingdom, June 2018. {Springer}.
+
+\bibitem{aitameur:hal-01097624}
+Yamine A{\"i}t-Ameur, John~Paul Gibson, and Dominique M{\'e}ry.
+\newblock {On Implicit and Explicit Semantics: Integration Issues in
+  Proof-Based Development of Systems}.
+\newblock In Tiziana Margaria and Bernhard Steffen, editors, {\em {6th
+  International Symposium on Leveraging Applications of Formal Methods,
+  Verification and Validation - Specialized Techniques and Applications (ISoLA
+  2014)}}, volume 8803 of {\em Lectures Notes in Computer Science (LNCS)},
+  pages 604--618, Corfu, Greece, October 2014. {Springer}.
+
+\bibitem{aitameur:hal-03250787}
+Yamine A{\"i}t-Ameur, R{\'e}gine Laleau, Dominique M{\'e}ry, and Neeraj~Kumar
+  Singh.
+\newblock {\em {Towards Leveraging Domain Knowledge in State-Based Formal
+  Methods}}, volume 12750 of {\em Lecture Notes in Computer Science}, pages
+  1--13.
+\newblock {Springer}, June 2021.
+
+\bibitem{aitameur:hal-03904799}
+Yamine A{\"i}t-Ameur, Ismail Mendil, Guillaume Dupont, Dominique M{\'e}ry, Marc
+  Pantel, Peter Riviere, and Neeraj~Kumar Singh.
+\newblock {\em {Empowering the Event-B Method Using External Theories}},
+  volume 13274 of {\em Lecture Notes in Computer Science}, pages 18--35.
+\newblock {Springer International Publishing}, June 2022.
+
+\bibitem{aitameur:hal-00743810}
+Yamine A{\"i}t-Ameur and Dominique M{\'e}ry.
+\newblock {Handling Heterogeneity in Formal Developments of Hardware and
+  Software Systems}.
+\newblock In Tiziana Margaria and Bernhard Steffen, editors, {\em {ISoLA - 5th
+  International Symposium On Leveraging Applications of Formal Methods,
+  Verification and Validation - 2012}}, volume 7610 of {\em Lecture Notes in
+  Computer Science}, pages 327--328, Amirandes, Heraklion, Greece, October
+  2012. {Tiziana Margaria and Bernhard Steffen}, {Springer}.
+
+\bibitem{aitameur:hal-01245832}
+Yamine A{\"i}t-Ameur and Dominique M{\'e}ry.
+\newblock {Making explicit domain knowledge in formal system development}.
+\newblock {\em {Science of Computer Programming}}, 121(100--127), March 2016.
+
+\bibitem{aitameur:hal-02910199}
+Yamine A{\"i}t-Ameur, Shin Nakajima, and Dominique M{\'e}ry.
+\newblock {\em {Implicit and Explicit Semantics Integration in Proof-Based
+  Developments of Discrete Systems}}.
+\newblock {Springer Singapore}, 2021.
+
+\bibitem{andriamiarina:hal-00763092}
+Manamiary~Bruno Andriamiarina, Hayat Daoud, Mostefa Belarbi, Dominique
+  M{\'e}ry, and Camel Tanougast.
+\newblock {Formal Verification of Fault Tolerant NoC-based Architecture}.
+\newblock In {\em {First International Workshop on Mathematics and Computer
+  Science (IWMCS2012)}}, Tiaret, Algeria, December 2012. {Mostefa BELARBI -
+  University of Tiaret - Algeria}.
+
+\bibitem{andriamiarina:inria-00606254}
+Manamiary~Bruno Andriamiarina and Dominique M{\'e}ry.
+\newblock {Stepwise Development Of Distributed Vertex Coloring Algorithms (Full
+  Report)}, July 2011.
+
+\bibitem{andriamiarina:inria-00606201}
+Manamiary~Bruno Andriamiarina and Dominique M{\'e}ry.
+\newblock {Stepwise Development of Distributed Vertex Colouring Algorithms
+  (Abstract)}.
+\newblock working paper or preprint, July 2011.
+
+\bibitem{andriamiarina:hal-00734131}
+Manamiary~Bruno Andriamiarina, Dominique M{\'e}ry, and Neeraj~Kumar Singh.
+\newblock {Revisiting Snapshot Algorithms by Refinement-based Techniques}.
+\newblock In {\em {PDCAT 2012 : The Thirteenth International Conference on
+  Parallel and Distributed Computing, Applications and Technologies}}, Beijing,
+  China, December 2012.
+
+\bibitem{andriamiarina:hal-00819256}
+Manamiary~Bruno Andriamiarina, Dominique M{\'e}ry, and Neeraj~Kumar Singh.
+\newblock {Integrating Proved State-Based Models for Constructing Correct
+  Distributed Algorithms}.
+\newblock In {\em {iFM - 10th International Conference on integrated Formal
+  Methods - 2013}}, Turku, Finland, June 2013.
+
+\bibitem{andriamiarina:hal-01018125}
+Manamiary~Bruno Andriamiarina, Dominique M{\'e}ry, and Neeraj~Kumar Singh.
+\newblock {Analysis of Self-* and P2P Systems using Refinement}.
+\newblock In Yamine~AIT AMEUR and Klaus-Dieter SCHEWE, editors, {\em {ABZ 2014
+  - 4th International ABZ 2014 Conference ASM, Alloy, B, TLA, VDM, Z}}, volume
+  8477 of {\em LNCS}, pages 117--123, Toulouse, France, June 2014. {Yamine AIT
+  AMEUR and Klaus-Dieter SCHEWE}, {Springer}.
+
+\bibitem{andriamiarina:hal-01018162}
+Manamiary~Bruno Andriamiarina, Dominique M{\'e}ry, and Neeraj~Kumar Singh.
+\newblock {Analysis of Self-* and P2P Systems using Refinement (Full Report)},
+  2014.
+
+\bibitem{andriamiarina:hal-00924525}
+Manamiary~Bruno Andriamiarina, Dominique M{\'e}ry, and Neeraj~Kumar Singh.
+\newblock {Revisiting Snapshot Algorithms by Refinement-based Techniques
+  (Extended Version)}.
+\newblock {\em {Computer Science and Information Systems}}, 11(1):251--270,
+  January 2014.
+
+\bibitem{andriamiarina:hal-01246669}
+Manamiary~Bruno Andriamiarina, Dominique M{\'e}ry, and Neeraj~Kumar Singh.
+\newblock {\em {Incremental Proof-Based Development for Resilient Distributed
+  Systems}}.
+\newblock Trustworthy Cyber-Physical Systems Engineering. {Taylor and Francis
+  Group}, September 2016.
+
+\bibitem{bellatreche:hal-03904787}
+Ladjel Bellatreche, Carlos Ordonez, Dominique M{\'e}ry, Matteo Golfarelli, and
+  El~Hassan Abdelwahed.
+\newblock {The central role of data repositories and data models in Data
+  Science and Advanced Analytics}.
+\newblock {\em {Future Generation Computer Systems}}, 129:13--17, April 2022.
+
+\bibitem{benaissa:inria-00155143}
+Nazim Benaissa, Dominique Cansell, and Dominique Mery.
+\newblock {Integration of Security Policy into System Modeling}.
+\newblock In {\em {The 7th International B Conference - B2007}}, Besan{\c c}on,
+  France, January 2007.
+
+\bibitem{benaissa:inria-00336655}
+Nazim Benaissa and Dominique M{\'e}ry.
+\newblock {D{\'e}veloppement incr{\'e}mental prouv{\'e} de syst{\`e}mes
+  r{\'e}partis : le cas Mondex}, 2008.
+
+\bibitem{benaissa:inria-00431264}
+Nazim Benaissa and Dominique M{\'e}ry.
+\newblock {Cryptographic Protocols Analysis in Event B}.
+\newblock In {\em {Seventh International Andrei Ershov Memorial Conference
+  "PERSPECTIVES OF SYSTEM INFORMATICS" - PSI 2009}}, Lectures Notes in Computer
+  Science, Novosibisrk, Russia, June 2009. {Springer-Verlag}.
+
+\bibitem{benaissa:inria-00431253}
+Nazim Benaissa and Dominique M{\'e}ry.
+\newblock {Cryptologic protocols analysis using proof-based patterns}.
+\newblock In {\em {Seventh International Andrei Ershov Memorial Conference
+  ''PERSPECTIVES OF SYSTEM INFORMATICS'' - PSI 2009}}, Lecture Notes in
+  Computer Science, Novosibirsk, Russia, June 2009. {Springer-Verlag}.
+
+\bibitem{benaissa:inria-00426405}
+Nazim Benaissa and Dominique M{\'e}ry.
+\newblock {D{\'e}veloppement combin{\'e} et prouv{\'e} de syst{\`e}mes
+  transactionnels cryptologiques}.
+\newblock In {\em {Approches Formelles dans l'Assistance au D{\'e}veloppement
+  de Logiciels - AFADL 2009}}, Toulouse, France, January 2009.
+
+\bibitem{benaissa:inria-00542919}
+Nazim Benaissa and Dominique M{\'e}ry.
+\newblock {Proof-Based Design of Security Protocols}.
+\newblock In Ernst~W. Mayr, editor, {\em {5th International Computer Science
+  Symposium in Russia, CSR 2010}}, volume 6072 of {\em Computer Science -
+  Theory and Applications, 5th International Computer Science Symposium in
+  Russia, CSR 2010,}, pages 25--36, KAZAN, Russia, June 2010. {Farid Ablayev},
+  {Springer}.
+
+\bibitem{cansell:inria-00107780}
+Dominique Cansell, Jean-Fran{\c c}ois Culat, Dominique M{\'e}ry, and Cyril
+  Proch.
+\newblock {Derivation of SystemC code from abstract system models}.
+\newblock In {\em {Forum on specification and Design Languages - FDL'04}}, page
+  12 p, Lille, France, 2004.
+\newblock Colloque avec actes et comit{\'e} de lecture. nationale.
+
+\bibitem{cansell:inria-00184833}
+Dominique Cansell, Paul Gibson, and Dominique M{\'e}ry.
+\newblock {Formal verification of tamper-evident storage for e-voting}.
+\newblock In Mike Hinchey and Tiziana Margaria, editors, {\em {5th IEEE
+  International Conference on Software Engineering and Formal Methods - SEFM
+  2007}}, Fifth IEEE International Conference on Software Engineering and
+  Formal Methods, 2007. SEFM 2007, pages 329--338, LONDON, United Kingdom,
+  September 2007. {IEEE}.
+
+\bibitem{cansell:inria-00594892}
+Dominique Cansell, Paul Gibson, and Dominique M{\'e}ry.
+\newblock {Refinement: A Constructive Approach to Formal Software Design for a
+  Secure e-voting Interface}.
+\newblock {\em {Electronic Notes in Theoretical Computer Science}}, 183:39--55,
+  2008.
+
+\bibitem{cansell:inria-00100888}
+Dominique Cansell, Ganesh Gopalakrishnan, Mike Jones, Dominique M{\'e}ry, and
+  Airy Weinzoepflen.
+\newblock {Incremental Proof of the Producer/Consumer Property for the PCI
+  Protocol}.
+\newblock In D.~Bert, J.P. Bowen, M.C. Henson, and K.~Robinson, editors, {\em
+  {2nd International Conference of B and Z Users - ZB 2002}}, volume 2272 of
+  {\em Lectures Notes in Computer Science}, pages 22--41, Grenoble, France,
+  2002. {Springer}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:inria-00099343}
+Dominique Cansell, Jacques Jaray, and Dominique M{\'e}ry.
+\newblock {Rapport final de contrat Cifre entre le LORIA et Peugeot SA et de
+  contrat d'expertise sur l'utilisation de la m{\'e}thode B.}, 2000.
+\newblock Rapport de contrat.
+
+\bibitem{cansell:inria-00100931}
+Dominique Cansell, Jacques Jaray, and Dominique Mery.
+\newblock {Utilisation de B pour l'aide {\`a} la sp{\'e}cification d'un
+  syst{\`e}me de diagnostic}.
+\newblock In {\em {Approche Formelles dans l'Assistance au D{\'e}veloppement de
+  Logiciels - AFADl'2001}}, page 15 p, Nancy, France, June 2001.
+\newblock Colloque avec actes et comit{\'e} de lecture. nationale.
+
+\bibitem{cansell:inria-00098541}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Interpr{\'e}tation de sp{\'e}cifications temporelles {\`a} l'aide
+  d'un outil de preuve}.
+\newblock In {\em {AFADl'98}}, page 13 p, none, 1998.
+\newblock Colloque avec actes et comit{\'e} de lecture. nationale.
+
+\bibitem{cansell:inria-00098918}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Abstract Animator for Temporal Specifications}.
+\newblock In Fran{\c c}oise Bellegarde \&~Olga Kouchnarenko, editor, {\em
+  {Workshop on Modelling \& Verification}}, Besan{\c c}on, France, 1999.
+  {Fran{\c c}oise Bellegarde, Olga Kouchnarenko \& Jacques Julliand}.
+\newblock Colloque sans acte {\`a} diffusion restreinte.
+
+\bibitem{cansell:inria-00098953}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Abstract animator for temporal specifications Application to TLA}.
+\newblock In Agostino Cortesi and Gilberto Fil{{\'e}}, editors, {\em
+  {International Symposium on Static Analysis - SAS'99}}, volume 1694 of {\em
+  Lecture Notes in Computer Science}, pages 284--299, Venise, Italie, 1999.
+  {Gilberto Fil{{\'e}} \& Agostino Cortesi}, {Springer Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{cansell:inria-00099264}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {\em {Abstraction and refinement of features}}.
+\newblock {Springer}, 2000.
+\newblock Contribution {\`a} un ouvrage.
+
+\bibitem{cansell:inria-00099157}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Playing with abstraction and refinement for managing features
+  interactions. A methodological approach to feature interaction problem}.
+\newblock In Jonathan P. Bowen \& Steve Dunne \& Andy Galloway \&~Steve King,
+  editor, {\em {International Conference on B \& Z Users - ZB'2000}}, volume
+  1878 of {\em Lecture Notes in Computer Science}, pages 148--167, York, GB,
+  2000. {Springer-Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:inria-00101076}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {D{\'e}veloppement de fonctions d{\'e}finies r{\'e}cursivement en B :
+  Application du B {\'e}v{\'e}nementiel}, 2002.
+\newblock Rapport interne.
+
+\bibitem{cansell:inria-00100945}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Integration of the proof process in the system development through
+  refinement steps}.
+\newblock In Eugenio Villar, editor, {\em {5th Forum on Specification and
+  Design Language - Workshop SFP in FDL'02}}, page 12 p, Marseille, France,
+  2002.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:inria-00099835}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Designing event-driven systems by combining coordination and
+  refinement}.
+\newblock In {\em {2nd International Workshop on Refinement of Critical
+  Systems: Methods, Tools and Developments - RCS'03}}, Turku, Finland, 2003.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:inria-00099794}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Foundations of the B method}.
+\newblock {\em {Computing and Informatics}}, 22:31 p, 2003.
+\newblock Article dans revue scientifique avec comit{\'e} de lecture.
+
+\bibitem{cansell:inria-00100065}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Tutorial on the event-based B method : Concepts and Case Studies}.
+\newblock In Dines Bjoerner and Martin Henson, editors, {\em {Logics of Formal
+  Software Specification Languages - LFSL'2004}}, The High Tatras, Slovakia,
+  2004.
+\newblock Colloque avec actes et comit{\'e} de lecture. nationale.
+
+\bibitem{cansell:inria-00000788}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Formal and Incremental Construction of a Distributed Reference
+  Counting Algorithm.}
+\newblock In {\em {APPSEM 2005}}, Frauenchiemsee Germany, September 2005.
+  {Martin Hofmann}.
+
+\bibitem{cansell:inria-00000857}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {The invoice case study modelling in Event B}, 2005.
+
+\bibitem{cansell:inria-00096696}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {\em {Event B}}.
+\newblock {HERMES}, 2006.
+
+\bibitem{cansell:inria-00093164}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Formal and Incremental Construction of Distributed Algorithms: On
+  the Distributed Reference Counting Algorithm}.
+\newblock {\em {Theoretical Computer Science}}, 2006.
+
+\bibitem{cansell:inria-00089497}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Incremental Parametric Development of Greedy Algorithms}.
+\newblock In Stephan Merz and Tobias Nipkow, editors, {\em {6th International
+  Workshop on Automatic Verification of Critical Systems - AVoCS 2006}},
+  Automatic Verification of Critical Systems (AVoCS 2006), pages 48--62, Nancy,
+  France, September 2006.
+
+\bibitem{cansell:inria-00092846}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Tutorial on the event-based B method}.
+\newblock Lecture, 2006.
+
+\bibitem{cansell:inria-00174023}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {\em {Designing old and new distributed algorithms by replaying an
+  incremental proof-based development}}.
+\newblock LNCS. {Springer-Verlag}, 2007.
+
+\bibitem{cansell:inria-00594883}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Incremental Parametric Development of Greedy Algorithms}.
+\newblock {\em {Electronic Notes in Theoretical Computer Science}}, 185:47--62,
+  2007.
+
+\bibitem{cansell:inria-00168307}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {Proved-Patterns-Based Development for Structured Programs.}
+\newblock In Volker Diekert, Mikhail~V. Volkov, and Andrei Voronkov, editors,
+  {\em {Computer Science - Theory and Applications, Second International,
+  Symposium on Computer Science in Russia - CSR 2007}}, volume 4649 of {\em
+  Lecture Notes in Computer Science}, pages 104--114, Ekaterinburg, Russia,
+  September 2007. {Ural State University (USU) ; Institute of Mathematics and
+  Mechanics of Ural Branch of Russian Academy of Sciences}, {Springer Berlin /
+  Heidelberg}.
+\newblock The original publication is available at www.springerlink.com ISSN
+  0302-9743 (Print) 1611-3349 (Online) ; ISBN 978-3-540-74509-9.
+
+\bibitem{cansell:inria-00579550}
+Dominique Cansell and Dominique M{\'e}ry.
+\newblock {\em {The Event-B Modelling Method - Concepts and Case Studies}},
+  pages 33--140.
+\newblock Monographs in Theoretical Computer Science. {Springer}, February
+  2008.
+
+\bibitem{cansell:inria-00099265}
+Dominique Cansell, Dominique M{\'e}ry, and Stephan Merz.
+\newblock {Diagrams Refinement for the Design of Reactive Systems}.
+\newblock {\em {Journal of Universal Computer Science}}, 7(2):159--174, 2000.
+\newblock Article dans revue scientifique avec comit{\'e} de lecture.
+
+\bibitem{cansell:inria-00099263}
+Dominique Cansell, Dominique M{\'e}ry, and Stephan Merz.
+\newblock {Predicate diagrams}.
+\newblock In M.V. Cengarle, editor, {\em {Workshop on Requirement, Design,
+  Correct Construction \& Verification}}, Munich, Germany, 2000. {M.V.
+  Cengarle}.
+\newblock Colloque sans acte {\`a} diffusion restreinte. internationale.
+
+\bibitem{cansell:inria-00099125}
+Dominique Cansell, Dominique M{\'e}ry, and Stephan Merz.
+\newblock {Predicate diagrams for the verification of reactive systems}.
+\newblock In W.~Grieskamp, T.~Santen, and B.~Stoddart, editors, {\em {Second
+  International Conference on Integrated Formal Methods - IFM'2000}}, volume
+  1945 of {\em Lecture Notes in Computer Science}, pages 380--397, Dagstuhl
+  Castle, Germany, 2000. {Springer-Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:inria-00099261}
+Dominique Cansell, Dominique M{\'e}ry, and Stephan Merz.
+\newblock {Verifying Reactive Systems Using Predicate Diagrams}.
+\newblock In Wolfgang Reif \&~Gerhard Schellhorn, editor, {\em
+  {FM-TOOLS'2000}}, page 5 p, Ulm, 2000. {Wolfgang Reif \& Gerhard Schellhorn}.
+\newblock Colloque sans acte {\`a} diffusion restreinte. internationale.
+
+\bibitem{cansell:inria-00110548}
+Dominique Cansell, Dominique M{\'e}ry, and Stephan Merz.
+\newblock {Formal Analysis of a Self-Stabilizing Algorithm - Using Predicate
+  Diagrams}.
+\newblock In Martin Wirsing, editor, {\em {Integrating Diagrammatic and Formal
+  Specification Techniques}}, pages 39--45, Wien, Austria, 2001. {GI Fachgruppe
+  0.1.7 Specification and Semantics}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:inria-00000564}
+Dominique Cansell, Dominique M{\'e}ry, and Cyril Proch.
+\newblock {Modelling SystemC scheduler by refinement}.
+\newblock In {\em {IEEE ISoLA Workshop on Leveraging Applications of Formal
+  Methods, Verification, and Validation - ISOLA'05}}, Columbia/USA, September
+  2005.
+
+\bibitem{cansell:inria-00000196}
+Dominique Cansell, Dominique M{\'e}ry, and Cyril Proch.
+\newblock {Un syst{\`e}me d'analyse de la qualit{\'e}: de la norme au produit
+  en passant par le raffinement}.
+\newblock {\em {G{\'e}nie logiciel : le magazine de l'ing{\'e}nierie du
+  logiciel et des syst{\`e}mes}}, (73):44--50, 2005.
+\newblock www.cnam.fr.
+
+\bibitem{cansell:inria-00426385}
+Dominique Cansell, Dominique M{\'e}ry, and Cyril Proch.
+\newblock {System-on-chip design by proof-based refinement}.
+\newblock {\em {International Journal on Software Tools for Technology
+  Transfer}}, 11(3):217--238, March 2009.
+\newblock The original publication is available at www.springerlink.com.
+
+\bibitem{cansell:hal-00149163}
+Dominique Cansell, Dominique M{\'e}ry, and Joris Rehm.
+\newblock {Time Constraint Patterns for Event B Development}.
+\newblock In Olga~Kouchnarenko Jacques~Julliand, editor, {\em {7th
+  International Conference of B Users, January 17-19, 2007}}, volume 4355 of
+  {\em Lecture Notes in Computer Science}, pages 140--154, Besan{\c c}on,
+  France, 2007. {Springer-Verlag}.
+\newblock ISSN : 0302-9743 (Print) ; 1611-3349 (Online) ; ISBN :
+  978-3-540-68760-3.
+
+\bibitem{cansell:inria-00593372}
+Dominique Cansell, Dominique M{\'e}ry, and Joris Rehm.
+\newblock {Int{\'e}gration de contraintes temps-r{\'e}el au sein d'un processus
+  de d{\'e}veloppement incr{\'e}mental bas{\'e} sur la preuve (Livrable 2)},
+  July 2008.
+
+\bibitem{cansell:inria-00099262}
+Dominique Cansell, Dominique M{\'e}ry, and Christophe Tabacznyj.
+\newblock {Abstraction and Refinement of Concurrent Programs and Formal
+  Specification}.
+\newblock In Jose~Rolim et~al., editor, {\em {Workshop on Formal Methods for
+  Parallel Programming - FMPPTA'2000}}, volume 1800 of {\em Lecture Notes in
+  Computer Science}, pages 1037--1038, Cancun, Mexico, 2000. {Dominique
+  M{\'e}ry \& Beverly Sanders}, {Springer-Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:inria-00101089}
+Dominique Cansell, Dominique M{\'e}ry, and Airy Weinzoepflen.
+\newblock {Mod{\'e}lisation et analyse de la documentation technique d'un
+  syst{\`e}me}.
+\newblock In {\em {Colloque Francophone sur la Mod{\'e}lisation des
+  Syst{\`e}mes R{\'e}actifs - MSR 2001}}, page 16 p, Toulouse, France, 2001.
+  {Hermes}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:inria-00099834}
+Dominique Cansell, Camel Tanougast, Yves Berviller, Dominique M{\'e}ry, Cyril
+  Proch, Hassan Rabah, and Serge Weber.
+\newblock {Proof-based design of a microelectronic architecture for MPEG-2
+  bit-rate measurement}.
+\newblock In {\em {Forum on specification and Design Languages - FDL'03}}, page
+  12 p, Frankfurt, Germany, France, 2003.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{cansell:hal-03983966}
+Dominique Cansell, Camel Tanougast, Dominique M{\'e}ry, Cyril Proch, Hassan
+  Rabah, and Serge Weber.
+\newblock {Proof-based design of a microelectronic architecture for mpeg-2
+  bit-rate measurement}.
+\newblock In {\em {Forum on specification and Design Languages-FDL'03}},
+  Frankfurt, Germany, September 2003.
+
+\bibitem{cheng:hal-02895528}
+Zheng Cheng and Dominique M{\'e}ry.
+\newblock {A Refinement Strategy for Hybrid System Design with Safety
+  Constraints}, July 2020.
+
+\bibitem{cheng:hal-03298750}
+Zheng Cheng and Dominique M{\'e}ry.
+\newblock {A Refinement Strategy for Hybrid System Design with Safety
+  Constraints}.
+\newblock In {\em {MEDI 2021 - 10th International Conference Model and Data
+  Engineering}}, volume 12732 of {\em Lecture Notes in Computer Science}, pages
+  3--17, Tallinn, Estonia, June 2021. {Springer}.
+
+\bibitem{cheng:hal-04152829}
+Zheng Cheng and Dominique M{\'e}ry.
+\newblock {A Static Checker for Reference Tracking Systems via Laplace
+  Transform and Transfer Functions}.
+\newblock working paper or preprint, July 2023.
+
+\bibitem{cheng:hal-04189025}
+Zheng Cheng and Dominique M{\'e}ry.
+\newblock {From System Events to Software Operations for Refinement-based
+  Modeling of Hybrid Systems *}.
+\newblock working paper or preprint, August 2023.
+
+\bibitem{ciobanu:hal-01097627}
+Gabriel Ciobanu and Dominique M{\'e}ry, editors.
+\newblock {\em {Theoretical Aspects of Computing -- ICTAC 2014}}, volume 8687
+  of {\em Lecture Notes in Computer Science}, Bucharest, Romania, September
+  2014. {Gabriel Ciobanu}, {Springer}.
+
+\bibitem{cirstea:hal-02997277}
+Horatiu Cirstea, Alexis Grall, and Dominique M{\'e}ry.
+\newblock {Generating Distributed Programs from Event-B Models}.
+\newblock In {\em {International Workshop on Verification and Program
+  Transformation}}, volume 320, pages 110--124, Dublin, Ireland, April 2020.
+
+\bibitem{cirstea:hal-02572971}
+Horatiu Cirstea, Alexis Grall, and Dominique M{\'e}ry.
+\newblock {Generating Distributed Programs from Event-B Models}, May 2020.
+
+\bibitem{couturier:inria-00098760}
+Rapha{\"e}l Couturier, Bertrand Couturier, and Dominique M{\'e}ry.
+\newblock {A compiler for parallel Unity programs using OpenMp}.
+\newblock In {\em {Parallel and Distributed Processing Techniques \&
+  Applications - PDPTA'99}}, page 21 p, Las Vegas, USA, July 1999.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{couturier:inria-00098540}
+Rapha{\"e}l Couturier and Dominique M{\'e}ry.
+\newblock {An experiment in parallelizing an application using formal methods}.
+\newblock In Hu, Alan, Vardi, and Moshe, editors, {\em {International
+  Conference on Computer Aided Verification - CAV'98}}, Lecture Notes in
+  Computer Science, page 10 p, Vancouver, Canada, 1998.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{couturier:inria-00098542}
+Rapha{\"e}l Couturier and Dominique M{\'e}ry.
+\newblock {Parallelization of a Monte Carlo simulation of a spins system}.
+\newblock In Hamid~R. Arabnia, editor, {\em {Parallel and Distributed
+  Processing Techniques and Applications - PDPTA'98}}, page 5 p, Las Vegas,
+  USA, 1998.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{dubois:hal-00987531}
+Catherine Dubois, Dimitra Giannakopoulou, and Dominique M{\'e}ry.
+\newblock {\em {Proceedings 1st Workshop on Formal Integrated Development
+  Environment}}, volume 149 of {\em Electronic Proceedings in Theoretical
+  Computer Science}.
+\newblock {EPTCS}, April 2014.
+
+\bibitem{dubois:hal-01246691}
+Catherine Dubois, Paolo Masci, and Dominique M{\'e}ry.
+\newblock {\em {Second International Workshop on Formal Integrated Development
+  Environment}}.
+\newblock Number 187 in EPTCS. {EPTCS}, June 2015.
+
+\bibitem{dubois:hal-01652413}
+Catherine Dubois, Paolo Masci, and Dominique M{\'e}ry.
+\newblock {Proceedings of the Third Workshop on Formal Integrated Development
+  Environment, F-IDE@FM 2016, Limassol, Cyprus, November 8, 2016}, January
+  2017.
+
+\bibitem{dupont:hal-00769223}
+Jean-Marc Dupont, Romain Lieber, G{\'e}rard Morel, Dominique M{\'e}ry, and
+  Fabien Bouffaron.
+\newblock {Sp{\'e}cification d'un Processus Technico-Physiologique de
+  Perception de Fermeture et Verrouillage d'un capot moteur en situation de
+  maintenance a{\'e}ronautique}, September 2012.
+
+\bibitem{evrot:hal-00120743}
+Dominique Evrot, Jean-Fran{\c c}ois P{\'e}tin, and Dominique M{\'e}ry.
+\newblock {Formal specification of safe manufacturing machines using the B
+  method : application to a mechanical press}.
+\newblock page CDROM. {Elsevier}, May 2006.
+
+\bibitem{fakhfakh:hal-01495807}
+Faten Fakhfakh, Mohamed Tounsi, Mohamed Mosbah, Ahmed Hadj~Kacem, and Dominique
+  M{\'e}ry.
+\newblock {A Formal Approach for Maintaining Forest Topologies in Dynamic
+  Networks}.
+\newblock In {\em {ICIS 2017 - 16th IEEE/ACIS International Conference on
+  Computer and Information Science}}, volume 719 of {\em Studies in
+  Computational Intelligence}, pages 123--137, Wuhan, China, May 2017.
+
+\bibitem{fass:hal-03198564}
+Didier Fass, Bruno Levy, Pierre Perez, and Dominique M{\'e}ry.
+\newblock {Virtual environment design as automated ''physiological''
+  counter-measures in extreme environment: from intensive care to human space
+  flight.}
+\newblock In {\em {AHFE 2018 - Human Factors and Simulation}}, Orlando, United
+  States, July 2018.
+
+\bibitem{fass:hal-01507847}
+Didier Fass and Dominique M{\'e}ry.
+\newblock {Integrated human systems design : bridging the gap between formal
+  and experimental approaches}.
+\newblock In {\em {NASA AMES Research Center, Human Systems Integration
+  Division,}}, MOFETT FIELD - Etats-Unis d'Am{\'e}rique, Unknown Region, 2015.
+
+\bibitem{fass:hal-03198362}
+Didier Fass and Dominique M{\'e}ry.
+\newblock {Modelling bio-compatible and bio-integrative medical devices}.
+\newblock In {\em {European \& Asian System, Software \& Service Process
+  Improvement \& Innovation - EUROSPII 2016}}, Graz, Austria, September 2016.
+
+\bibitem{fejoz:inria-00000767}
+Lo{\"i}c Fejoz, Dominique M{\'e}ry, and Stephan Merz.
+\newblock {DIXIT: a Graphical Toolkit for Predicate Abstractions}.
+\newblock In Ramesh Bharadwaj and Supratik Mukhopadhyay, editors, {\em {Fourth
+  International Workshop on Automated Verification of Infinite-State Systems -
+  AVIS'05}}, pages 39--48, Edinburgh / U.K., April 2005.
+
+\bibitem{giannakopoulou:hal-00743808}
+Dimitra Giannakopoulou and Dominique M{\'e}ry.
+\newblock {\em {FM 2012: Formal Methods - 18th International Symposium, Paris,
+  France, August 27-31, 2012. Proceedings}}, volume 7436 of {\em LNCS - Lecture
+  Notes in Computer Science}.
+\newblock {Springer}, August 2012.
+
+\bibitem{gibson:inria-00098617}
+Jean-Paul Gibson and Dominique M{\'e}ry.
+\newblock {Always and Eventually in Object Requirements}.
+\newblock In {\em {Rigorous Object Oriented Methods}}, page 20 p, none, 1998.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{gibson:inria-00098616}
+Jean-Paul Gibson and Dominique M{\'e}ry.
+\newblock {Teaching Formal Methods: Lessons to learn}.
+\newblock In {\em {Irish Workshop For Formal Methods 1998}}, page 16 p, Cork,
+  Irlande, 1998.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{gibson:inria-00098998}
+Jean-Paul Gibson and Dominique M{\'e}ry.
+\newblock {Formal modelling of services for getting a better understanding of
+  the feature interaction problem - multi-view approach}.
+\newblock In D.~Bjorner, M.~Broy, and A.~Zamulin, editors, {\em {Andrei Ershov
+  Third International Conference, Perspectives of system Informatics -
+  PSI'99}}, volume 1755 of {\em Lecture Notes in Computer Science}, pages
+  155--179, Novosibirsk, Russia, 1999. {Springer-Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{gibson:inria-00108114}
+Jean-Paul Gibson, Dominique M{\'e}ry, and Yassine Mokhtari.
+\newblock {Animating formal specifications : a telephone simulation case
+  study}.
+\newblock In {\em {13th European Simulation Multiconference - ESM'99}},
+  volume~II, pages 139--145, Warsaw, Poland, June 1999.
+\newblock Colloque avec actes sans comit{\'e} de lecture.
+
+\bibitem{gibson:inria-00098882}
+John~Paul Gibson, Geoff Hamilton, and Dominique M{\'e}ry.
+\newblock {Integration Problems in Telephone Feature requirements}.
+\newblock In K.~Araki \& A. Galloway \&~K. Taguchi, editor, {\em {Workshop on
+  Integrated Formal Methods - IFM'99}}, page 19 p, York, England, 1999.
+  {Springer Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{gibson:inria-00099324}
+John~Paul Gibson and Dominique M{\'e}ry.
+\newblock {\em {Fair Objects}}.
+\newblock Computer Science \& Electronic Engineering. {Horwood Publishing Ltd},
+  2000.
+\newblock Contribution {\`a} un ouvrage.
+
+\bibitem{gibson:hal-01798224}
+John~Paul Gibson and Dominique M{\'e}ry.
+\newblock {Explicit modelling of physical measures: from Event-B to Java}.
+\newblock In {\em {IMPEX 2017: 1st International Workshop on Handling IMPlicit
+  and EXplicit knowledge in formal system development}}, volume 271, pages 64
+  -- 79, Xi’An, China, November 2017. {Electronic Proceedings in Theoretical
+  Computer Science}.
+
+\bibitem{gibson:inria-00099267}
+Paul Gibson, Geoff Hamilton, and Dominique M{\'e}ry.
+\newblock {A taxonomy for triggered interactions using fair object semantics}.
+\newblock In M.~Calder \&~E. Magill, editor, {\em {Feature Interactions in
+  Telecommunications \& Software Systems VI}}, page 20 p, Glasgow, UK, 2000.
+  {IOS Press}.
+\newblock Colloque avec actes et comit{\'e} de lecture. internationale.
+
+\bibitem{gibson:hal-01658423}
+Paul~J. Gibson, Souad Kherroubi, and Dominique M{\'e}ry.
+\newblock {Applying a Dependency Mechanism for Voting Protocol Models Using
+  Event-B}.
+\newblock In Ahmed Bouajjani and Alexandra Silva, editors, {\em {37th
+  International Conference on Formal Techniques for Distributed Objects,
+  Components, and Systems (FORTE 2017)}}, volume LNCS-10321 of {\em Formal
+  Techniques for Distributed Objects, Components, and Systems}, pages 124--138,
+  Neuch{\^a}tel, Switzerland, June 2017. {Springer International Publishing}.
+
+\bibitem{jain:hal-04183865}
+Vineeta Jain, Ulf Wetzker, Vijay Laxmi, Manoj~Singh Gaur, Mohamed Mosbah, and
+  Dominique M{\'e}ry.
+\newblock {SAP: A Secure Low-Latency Protocol for Mitigating High Computation
+  Overhead in WI-FI Networks}.
+\newblock {\em {IEEE Access}}, 11:84620--84635, 2023.
+
+\bibitem{kherroubi:hal-01631017}
+Souad Kherroubi and Dominique M{\'e}ry.
+\newblock {Contextualization and Dependency in State-Based Modelling -
+  Application to Event-B}.
+\newblock In {\em {MEDI 2017 - International Conference on Model and Data
+  Engineering}}, volume 10563 of {\em Lecture Notes in Computer Science}, pages
+  137--152, Barcelona, Spain, October 2017. {Springer}.
+
+\bibitem{laleau:hal-01933762}
+R{\'e}gine Laleau, Dominique M{\'e}ry, Shin Nakajima, and Elena Troubitsyna.
+\newblock {Proceedings Joint Workshop on Handling IMPlicit and EXplicit
+  knowledge in formal system development (IMPEX) and Formal and Model-Driven
+  Techniques for Developing Trustworthy Systems (FM\&MDD)}, May 2018.
+
+\bibitem{lamboley:inria-00098874}
+Patrick Lamboley, Jean-Fran{\c c}ois P{\'e}tin, and Dominique M{\'e}ry.
+\newblock {Towards a formal engineering framework for process automation}.
+\newblock In {\em {Seventh IEEE International Conference on Emerging
+  Technologies \& Factory Automation - ETFA'99}}, page 8 p, Barcelona, Spain,
+  1999. {IEEE}.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{lecomte:inria-00184827}
+Thierry Lecomte, Dominique M{\'e}ry, and Dominique Cansell.
+\newblock {Patrons de conception prouv{\'e}s}.
+\newblock {\em {G{\'e}nie logiciel : le magazine de l'ing{\'e}nierie du
+  logiciel et des syst{\`e}mes}}, (81 (juin 2007)):14--18, 2007.
+
+\bibitem{mendil:hal-03904803}
+Ismail Mendil, Yamine A{\"i}t-Ameur, Neeraj~Kumar Singh, Guillaume Dupont,
+  Dominique M{\'e}ry, and Philippe Palanque.
+\newblock {Formal domain-driven system development in Event-B: Application to
+  interactive critical systems}.
+\newblock {\em {Journal of Systems Architecture}}, 135:102798, February 2023.
+
+\bibitem{mendil:hal-03857803}
+Ismail Mendil, Yamine A{\"i}t-Ameur, Neeraj~Kumar Singh, Dominique M{\'e}ry,
+  and Philippe Palanque.
+\newblock {Leveraging Event-B Theories for Handling Domain Knowledge in Design
+  Models}.
+\newblock In {\em {7th International Symposium on Dependable Software
+  Engineering. Theories, Tools, and Applications (SETTA 2021)}}, volume 13071
+  of {\em Lecture Notes in Computer Science}, pages 40--58, Beijing, China,
+  November 2021. {Springer International Publishing}.
+
+\bibitem{mendil:hal-03487118}
+Ismail Mendil, Yamine A{\"i}t-Ameur, Neeraj~Kumar Singh, Dominique M{\'e}ry,
+  and Philippe Palanque.
+\newblock {Standard Conformance-by-Construction with Event-B}.
+\newblock In Alberto~Lluch Lafuente and Anastasia Mavridou, editors, {\em
+  {FMICS 2021 - 26th International Conference on Formal Methods for Industrial
+  Critical Systems}}, volume 12863 of {\em Formal Methods for Industrial
+  Critical Systems. 26th International Conference, FMICS 2021, Paris, France,
+  August 24--26, 2021, Proceedings ; ISBN 978-3-030-85247-4}, pages 126--146,
+  Paris, France, August 2021. {Springer International Publishing}.
+
+\bibitem{mendil:inserm-04095980}
+Ismail Mendil, Peter Riviere, Yamine A{\"i}t-Ameur, Neeraj~Kumar Singh,
+  Dominique M{\'e}ry, and Philippe Palanque.
+\newblock {Non-Intrusive Annotation-Based Domain-Specific Analysis to Certify
+  Event-B Models Behaviours}.
+\newblock In {\em {29th Asia-Pacific Software Engineering Conference (APSEC
+  2022)}}, pages 129--138, Virtual conference, Japan, December 2022. {IEEE}.
+
+\bibitem{mendil:hal-02999148}
+Ismail Mendil, Neeraj~Kumar Singh, Yamine A{\"i}t-Ameur, Dominique M{\'e}ry,
+  and Philippe Palanque.
+\newblock {An Integrated Framework for the Formal Analysis of Critical
+  Interactive Systems}.
+\newblock In Yang Liu, Shang-Pin Ma, Sen Chen, and Jun Sun, editors, {\em {The
+  27th Asia-Pacific Software Engineering Conference}}, The 27th Asia-Pacific
+  Software Engineering Conference, page~10, Singapour, Singapore, December
+  2020. {Jun Sun}, {IEEE}.
+
+\bibitem{mermet:inria-00098409}
+Bruno Mermet and Dominique M{\'e}ry.
+\newblock {Service specifications to B, or not to B}.
+\newblock In {\em {Second Workshop on Formal Methods in Software Practice}},
+  page 8 p, Clearwater Beach, Florida, USA, 1998. {ACM}.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{mermet:inria-00098448}
+Bruno Mermet, Dominique M{\'e}ry, and Dmitri Samborski.
+\newblock {Sp{\'e}cification de services : une approche avec B}.
+\newblock {\em {Revue des Sciences et Technologies de l'Information - S{\'e}rie
+  TSI : Technique et Science Informatiques}}, 17(9):1157--1180, 1998.
+\newblock Article dans revue scientifique avec comit{\'e} de lecture.
+
+\bibitem{mery:tel-01753615}
+Dominique M{\'e}ry.
+\newblock {A method for refining and developing concurrent programs : on the
+  study of refinement of concurrent programs : ea proof-based approach},
+  February 1993.
+\newblock Texte int{\'e}gral accessible uniquement aux membres de
+  l'Universit{\'e} de Lorraine.
+
+\bibitem{mery:inria-00108066}
+Dominique M{\'e}ry.
+\newblock {Requirements for a Temporal B\textless{}br /\textgreater{}Assigning
+  Temporal Meaning to Abstract Machines... and to Abstract Systems : Assigning
+  Temporal Meaning to Abstract Machines... and to Abstract Systems}.
+\newblock In A.~Galloway \&~K. Taguchi, editor, {\em {Integrated Formal Methods
+  - IFM'99}}, page 20 p, York, UK, 1999. {A. Galloway}, {Springer Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{mery:inria-00108068}
+Dominique M{\'e}ry.
+\newblock {\em {Special Issue FMPPTA'98}}.
+\newblock Parallel Processing Letters. {World Scientific}, 1999.
+\newblock Ouvrage ({\'e}diteur).
+
+\bibitem{mery:inria-00100064}
+Dominique M{\'e}ry.
+\newblock {Synth{\`e}se formelle par raffinement de mod{\`e}les et de logiciels
+  pour l'automaisation}.
+\newblock In {\em {Journ{\'e}es d'Etude ''Automatique et Informatique''}},
+  Cachan, France, 2004. {Club des Enseignants et des Chercheurs en
+  Electronique, Electrotechnique et Automatique, Section Automatique}.
+\newblock Colloque sur invitation.
+
+\bibitem{mery:inria-00287231}
+Dominique M{\'e}ry.
+\newblock {Teaching programming methodology using Event B}.
+\newblock In Henri Habrias, editor, {\em {The B Method: from Research to
+  Teaching}}, Nantes, France, July 2008. {Henri Habrias}, {APCB}.
+
+\bibitem{mery:inria-00426384}
+Dominique M{\'e}ry.
+\newblock {A Simple Refinement-based Method for Constructing Algorithms}.
+\newblock {\em {Sigcse Bulletin}}, 41(2):51--59, June 2009.
+
+\bibitem{mery:inria-00426383}
+Dominique M{\'e}ry.
+\newblock {Refinement-Based Guidelines for Algorithmic Systems}.
+\newblock {\em {International Journal of Software and Informatics (IJSI)}},
+  3(2-3):197--239, September 2009.
+
+\bibitem{mery:hal-01097625}
+Dominique M{\'e}ry.
+\newblock {Playing with State-Based Models for Designing Better Algorithms}.
+\newblock In Yamine~A{\"i}t Ameur, Ladjel Bellatreche, and George~A.
+  Papadopoulos, editors, {\em {Model and Data Engineering - 4th International
+  Conference, MEDI 2014}}, volume 8748 of {\em Lecture Notes in Computer
+  Science}, pages 1--3, Larrnaca, Greece, September 2014. {Springer}.
+
+\bibitem{mery:hal-01316026}
+Dominique M{\'e}ry.
+\newblock {Playing with State-Based Models for Designing Better Algorithms}.
+\newblock {\em {Future Generation Computer Systems}}, 68:445--455, March 2017.
+
+\bibitem{mery:hal-01933971}
+Dominique M{\'e}ry.
+\newblock {Modelling by Patterns for Correct-by-Construction Process.}
+\newblock In {\em {ISOLA 2018 - 8th International Symposium On Leveraging
+  Applications of Formal Methods, Verification and Validation}}, volume 11244
+  of {\em Leveraging Applications of Formal Methods, Verification and
+  Validation. Modeling - 8th International Symposium, ISoLA 2018}, pages
+  399--423, Limassol, Cyprus, November 2018. {Springer}.
+
+\bibitem{mery:hal-02400379}
+Dominique M{\'e}ry.
+\newblock {Verification by Construction of Distributed Algorithms}.
+\newblock In Robert~M. Hierons and Mohamed Mosbah, editors, {\em {Theoretical
+  Aspects of Computing - {ICTAC} 2019 - 16th International Colloquium}}, number
+  11884 in Theoretical Aspects of Computing - {ICTAC} 2019 - 16th International
+  Colloquium, Hammamet, Tunisia, October 31 - November 4, 2019, Proceedings,
+  pages 22--38, Mammamet, Tunisia, October 2019. {Springer}.
+
+\bibitem{mery:hal-03199808}
+Dominique M{\'e}ry.
+\newblock {Refinement-based Construction of Correct Distributed Algorithms}.
+\newblock In {\em {ICI2ST 2021 - 2nd International Conference on Information
+  Systems and Software Technologies}}, Quito / Virtual, Ecuador, March 2021.
+  {IEEE}.
+
+\bibitem{mery:inria-00001252}
+Dominique M{\'e}ry, Dominique Cansell, Cyril Proch, Denis Abraham, and Patrick
+  Ditsch.
+\newblock {The challenge of QoS for digital television services}.
+\newblock {\em {EBU Technical Review}}, 302(Avril):11 p, 2005.
+\newblock http://www.ebu.ch.
+
+\bibitem{mery:hal-00744242}
+Dominique M{\'e}ry and Didier Fass.
+\newblock {\em {Top mod{\`e}le et Top simulation : la momie de Lun{\'e}ville
+  Observation, Mod{\'e}lisation, Simulation et Validation}}, page 132.
+\newblock Arch{\'e}ologie, Espaces, Patrimoines. {Presse universitaire de
+  Nancy}, December 2011.
+\newblock 10 pages.
+
+\bibitem{mery:inria-00098620}
+Dominique M{\'e}ry and Jean-Paul Gibson.
+\newblock {Fair Objects}.
+\newblock In {\em {Object Technology 98 (Colloquim on Object Technology System
+  Re-engineering)}}, page 16 p, none, 1998.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{mery:hal-03199748}
+Dominique M{\'e}ry and Souad Kherroubi.
+\newblock {\em {Contextual Dependency in State-based Modelling}}.
+\newblock {Springer}, January 2021.
+
+\bibitem{mery:inria-00001262}
+Dominique M{\'e}ry and Stephan Merz.
+\newblock {Event Systems and Access Control}.
+\newblock In Dieter Gollmann and Jan J{\"u}rjens, editors, {\em {Sixth
+  International IFIP WG 1.7 Workshop on Issues in the Theory of Security}},
+  pages 40--54, Vienna/Austria, March 2006. {Vienna University of Technology}.
+
+\bibitem{mery:inria-00147824}
+Dominique M{\'e}ry and Stephan Merz.
+\newblock {Specification and Refinement of Access Control}.
+\newblock {\em {Journal of Universal Computer Science}}, 13(8):1073--1093,
+  2007.
+
+\bibitem{mery:inria-00539785}
+Dominique M{\'e}ry and Stephan Merz.
+\newblock {\em {Integrated Formal Methods}}, volume 6396 of {\em Lecture Notes
+  in Computer Science}.
+\newblock {Springer}, October 2010.
+
+\bibitem{mery:inria-00108115}
+Dominique M{\'e}ry and Yassine Mokhtari.
+\newblock {Validation of formal specifications}.
+\newblock In {\em {AAAI'99, Fall Symposium}}, page 5 p, none, November 1999.
+\newblock Colloque avec actes sans comit{\'e} de lecture.
+
+\bibitem{mery:hal-01369425}
+Dominique M{\'e}ry, Rosemary Monahan, and Cheng Zheng.
+\newblock {On two Friends for getting Correct ProgramsAutomatically Translating
+  Event B Specifications to Recursive Algorithms in Rodin}.
+\newblock In Bernhard Steffen and Tiziana Margaria, editors, {\em {ISOLA 2016
+  }}, volume~I of {\em Leveraging Applications of Formal Methods, Verification
+  and Validation: Foundational Techniques}, page~18, CORFU, Greece, October
+  2016. {Bernhard Steffen and Tiziana Margaria}, {Springer}.
+
+\bibitem{mery:hal-00579252}
+Dominique M{\'e}ry, Mohamed Mosbah, and Mohamed Tounsi.
+\newblock {Refinement-based Verification of Local Synchronization Algorithms}.
+\newblock In {\em {17TH INTERNATIONAL SYMPOSIUM ON FORMAL METHODS}}, Lecture
+  Notes in Computer Science, page {\`a} para{\^i}tre, Limerick, Ireland, June
+  2011. {Springer}.
+
+\bibitem{mery:inria-00547302}
+Dominique M{\'e}ry, Mohammed Mosbah, and Mohammed Tounsi.
+\newblock {Proving Distributed Algorithms by Combining Refinement and Local
+  Computations}.
+\newblock In Jens Bendisposto, Michael Leuschel, and Markus Roggenbach,
+  editors, {\em {AVOCS 2010 10th International Workshop on Automated
+  Verification of Critical Systems}}, Dusseldorf, Germany, September 2010.
+
+\bibitem{mery:inria-00108067}
+Dominique M{\'e}ry and Guy-Ren{\'e} Perrin.
+\newblock {\em {Edition Sp{\'e}ciale RenPar'10}}.
+\newblock TSI. {Herm{\`e}s}, 1999.
+\newblock Ouvrage ({\'e}diteur).
+
+\bibitem{mery:inria-00098619}
+Dominique M{\'e}ry and Jean-Fran{\c c}ois P{\'e}tin.
+\newblock {Formal engineering methods for modelling and verification of control
+  systems}.
+\newblock In {\em {9th symposium on information control problems in
+  manufacturing Advances in Industrial Engineering - INCOM'98}}, IFAC, page 6
+  p, Nancy/France, 1998. {ELSEVIER}.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{mery:hal-00813033}
+Dominique M{\'e}ry and Mike Poppleton.
+\newblock {Formal Modelling and Verification of Population Protocols}.
+\newblock In Einar~Broch Johnsen and Luigia Petre, editors, {\em {iFM - 10th
+  International Conference on integrated Formal Methods - 2013}}, LNCS, Turku,
+  Finland, June 2013. {Springer}.
+
+\bibitem{mery:hal-01245819}
+Dominique M{\'e}ry and Mike Poppleton.
+\newblock {Towards An Integrated Formal Method for Verification of Liveness
+  Properties in Distributed Systems}.
+\newblock {\em {Software and Systems Modeling}}, 16(4):1083--1115, October
+  2017.
+
+\bibitem{mery:hal-02400510}
+Dominique M{\'e}ry and Shengchao Qin, editors.
+\newblock {\em {2019 International Symposium on Theoretical Aspects of Software
+  Engineering (TASE)}}, Guillin, China, November 2019. {Xianxian Li and Zhi
+  Li}, {IEEE}.
+
+\bibitem{mery:hal-03904791}
+Dominique M{\'e}ry and Shengchao Qin.
+\newblock {Selected papers from The 13th International Symposium on Theoretical
+  Aspects of Software Engineering 29 July -- 1 August 2019, Guilin, China}.
+\newblock {\em {Science of Computer Programming}}, 218:102804, June 2022.
+
+\bibitem{mery:hal-03904790}
+Dominique M{\'e}ry and Alexander Raschke.
+\newblock {Selected papers from the Rigorous State-Based Methods 7th
+  International Conference, ABZ 2020, Ulm, Germany, May 27--29, 2020}.
+\newblock {\em {Science of Computer Programming}}, 216:102780, April 2022.
+
+\bibitem{mery:inria-00099541}
+Dominique M{\'e}ry, Nidhal Rezg, and Xiaolan Xie.
+\newblock {Mod{\'e}lisation des syst{\`e}mes r{\'e}actifs}.
+\newblock In M{\'e}ry, Dominique et~Rezg, Nidhal et~Xie, and Xiaolan, editors,
+  {\em {4{\`e}me Colloque Francophone sur la Mod{\'e}lisation des Syst{\`e}mes
+  R{\'e}actifs - MSR 2003}}, page 568 p, Metz, France, 2003. {Herm{\`e}s}.
+\newblock Hors-s{\'e}rie Revue des Syst{\`e}mes 2003. Congr{\`e}s
+  ({\'e}diteur). nationale.
+
+\bibitem{mery:hal-00862050}
+Dominique M{\'e}ry and Monahan Rosemary.
+\newblock {Transforming EVENT B Models into Verified C\# Implementations}.
+\newblock In Alexei Lisitsa and Andrei Nemytykh, editors, {\em {VPT 2013 -
+  First International Workshop on Verification and Program Transformation}},
+  volume~16 of {\em EPIC}, pages 57--73, Saint Petersburg, Russia, July 2013.
+  {Alexei Lisitsa and Andrei Nemytykh}.
+
+\bibitem{mery:hal-01245991}
+Dominique M{\'e}ry, Sawant Rushikesh, and Anton Tarasyuk.
+\newblock {Integrating Domain-Based Features into Event-B: a Nose Gear Velocity
+  Case Study}.
+\newblock In Ladjel Bellatreche and Yannis Manolopoulos, editors, {\em {Model
+  and Data Engineering - 5th International Conference, MEDI 2015}}, volume lncs
+  9344 of {\em Model and Data Engineering - 5th International Conference, MEDI
+  2015}, pages 89--102, Rhodes, Greece, September 2015. {springer}.
+
+\bibitem{mery:inria-00098618}
+Dominique M{\'e}ry and Beverly Sanders.
+\newblock {\em {Third International Workshop on Formal Methods for Parallel
+  Programming : Theory and Applications}}.
+\newblock Lecture Notes in Computer Science. {Springer Verlag}, 1998.
+\newblock Ouvrage (auteur).
+
+\bibitem{mery:hal-01097629}
+Dominique M{\'e}ry, Bernhard Sch{\"a}tz, and Alan Wassyng.
+\newblock {The Pacemaker Challenge: Developing Certifiable Medical Devices
+  (Dagstuhl Seminar 14062)}.
+\newblock {\em {Dagstuhl Reports}}, 4(2):17--37, 2014.
+
+\bibitem{mery:inria-00419973}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Pacemaker's Functional Behaviors in Event-B}, 2009.
+
+\bibitem{mery:inria-00540006}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {EB2C : A Tool for Event-B to C Conversion Support}.
+\newblock {8th IEEE International Conference on Software Engineering and Formal
+  Methods (SEFM)}, September 2010.
+\newblock Poster and Tool Demo submission, and published in a CNR Technical
+  Report.
+
+\bibitem{mery:inria-00540007}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Functional Behavior of a Cardiac Pacing System}.
+\newblock {\em {International Journal of Discrete Event Control Systems
+  (IJDECS)}}, December 2010.
+
+\bibitem{mery:inria-00540005}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Real-Time Animation for Formal Specification}.
+\newblock In Marc Aiguier, Francis Bretaudeau, and Daniel Krob, editors, {\em
+  {Complex Systems Design \& Management 2010}}, Proceedings of the First
+  International Conference on Complex System Design \& Management CSDM 2010,
+  pages 49--60, Paris, France, October 2010. {Springer}.
+
+\bibitem{mery:inria-00465061}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Technical Report on Formal Development of Two-Electrode Cardiac
+  Pacing System}, February 2010.
+
+\bibitem{mery:inria-00540008}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Trustable Formal Specification for Software Certification}.
+\newblock In T.~Margaria and B.~Ste, editors, {\em {4th International Symposium
+  On Leveraging Applications of Formal Methods - ISOLA 2010}}, volume 6416 of
+  {\em Lecture Notes in Computer Science}, pages 312--326, Heraklion, Crete,
+  Greece, October 2010. {Springer}.
+
+\bibitem{mery:inria-00637761}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {A generic framework: from modeling to code}.
+\newblock {\em {Innovations in Systems and Software Engineering (ISSE)}}, pages
+  1--9, September 2011.
+
+\bibitem{mery:inria-00637768}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Analysis of DSR Protocol in Event-B}.
+\newblock In D{\'e}fago, Xavier, Petit, Franck, Villain, and Vincent, editors,
+  {\em {13th International Symposium on Stabilization, Safety, and Security of
+  Distributed Systems (SSS 2011)}}, volume 6976 of {\em Stabilization, Safety,
+  and Security of Distributed Systems}, pages 401--415, Grenoble, France,
+  October 2011. {Springer Berlin / Heidelberg}.
+
+\bibitem{mery:inria-00637765}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Automatic Code Generation from Event-B Models}.
+\newblock In {\em {SoICT 2011}}, Hanoi, Vietnam, October 2011. {Hanoi
+  University}, {ACM ICPS}.
+
+\bibitem{mery:inria-00638467}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {EB2J : Code Generation from Event-B to Java}.
+\newblock In {\em {SBMF - Brazilian Symposium on Formal Methods}}, S{\~a}o
+  Paulo, Brazil, September 2011. {CBSoft - Brazilian Conference on Software:
+  Theory and Practice}.
+
+\bibitem{mery:inria-00638486}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Formal Development and Automatic Code Generation : Cardiac
+  Pacemaker}.
+\newblock In {\em {International Conference on Computers and Advanced
+  Technology in Education (ICCATE, 2011)}}, Beijing, China, November 2011.
+
+\bibitem{mery:inria-00638473}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Formalisation of the Heart based on Conduction of Electrical
+  Impulses and Cellular-Automata}.
+\newblock In Zhiming Liu and Alan Wassyng, editors, {\em {International
+  Symposium on Foundations of Health Information Engineering and Systems
+  (FHIES, 2011)}}, Johannesburg, South Africa, August 2011.
+
+\bibitem{mery:inria-00638478}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Medical Protocol Diagnosis using Formal Methods}.
+\newblock In Zhiming Liu and Alan Wassyng, editors, {\em {International
+  Symposium on Foundations of Health Information Engineering and Systems
+  (FHIES, 2011)}}, Johannesburg, South Africa, August 2011.
+
+\bibitem{mery:inria-00600339}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Technical Report on Formalisation of the Heart using Analysis of
+  Conduction Time and Velocity of the Electrocardiography and
+  Cellular-Automata}, August 2011.
+
+\bibitem{mery:inria-00584177}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Technical Report on Interpretation of the Electrocardiogram (ECG)
+  Signal using Formal Methods}, 2011.
+
+\bibitem{mery:hal-00747305}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Critical systems development methodology using formal techniques}.
+\newblock In {\em {3rd International Symposium on Information and Communication
+  Technology - SoICT 2012}}, SoICT '12 - Proceedings of the Third Symposium on
+  Information and Communication Technology, pages 3--12, Ha Long, Vietnam,
+  August 2012. {ACM}.
+
+\bibitem{mery:hal-00762821}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {\em {Formalization of Heart Models Based on the Conduction of
+  Electrical Impulses and Cellular Automata}}, volume 7151 of {\em Lecture
+  Notes in Computer Science}, pages 140--159.
+\newblock {Springer Berlin Heidelberg}, 2012.
+
+\bibitem{mery:hal-00762822}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {\em {Medical Protocol Diagnosis Using Formal Methods}}, volume 7151
+  of {\em Lecture Notes in Computer Science}, pages 1--20.
+\newblock {Springer Berlin Heidelberg}, 2012.
+
+\bibitem{mery:hal-00926335}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {\em {Event B}}.
+\newblock Informatique et Syst{\`e}mes d'Informations. {HERMES}, April 2013.
+
+\bibitem{mery:inria-00637756}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Formal Specification of Medical Systems by Proof-Based Refinement}.
+\newblock {\em {ACM Transactions on Embedded Computing Systems (TECS)}},
+  12(1):15, January 2013.
+
+\bibitem{mery:hal-00862077}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Ideal Mode Selection of a Cardiac Pacing System}.
+\newblock In Vincent~G. Duffy, editor, {\em {4th International Conference -
+  Digital Human Modeling and applications in Health, Safety, Ergonomics and
+  Risk Management - DHM 2013 (HCI International 2013)}}, volume 8025 of {\em
+  Lecture Notes in Computer Science}, pages 258--267, Las Vegas, United States,
+  July 2013. {Springer}.
+
+\bibitem{mery:hal-01097645}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Formal Evaluation of Landing Gear System}.
+\newblock In Ngo~Hong Son, Yves Deville, and Marc Bui, editors, {\em {SoICT
+  2014 fifth symposium on Information and Communication Technology,}}, SoICT
+  2014 fifth symposium on Information and Communication Technology,, HANOI,
+  Vietnam, December 2014. {ACM}.
+
+\bibitem{mery:hal-00985010}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Modeling an Aircraft Landing System in Event-B}.
+\newblock In Fr{\'e}d{\'e}ric Boniol, editor, {\em {ABZ 2014 Case Study
+  Track}}, volume 433 of {\em CCIS}, pages 154--159, Toulouse, France, June
+  2014. {Springer}.
+
+\bibitem{mery:hal-00971787}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {Modelling an Aircraft Landing System in Event-B (Full Report)},
+  April 2014.
+
+\bibitem{mery:hal-00995176}
+Dominique M{\'e}ry and Neeraj~Kumar Singh.
+\newblock {The Semantics of Refinement Chart}.
+\newblock In Vincent~G. Duffy, editor, {\em {HCI International}}, volume 8529
+  of {\em Lecture Notes in Computer Science}, pages 415--426, Heraklion,
+  Greece, June 2014. {Springer}.
+
+\bibitem{mery:hal-02354252}
+Dominique Mery and Neeraj~Kumar Singh.
+\newblock {Analyzing Requirements Using Environment Modelling}.
+\newblock In Vincent~G. Duffy, editor, {\em {DHM 2015 - 6th International
+  Conference on Digital Human Modeling Applications in Health, Safety,
+  Ergonomics and Risk Management: Ergonomics and Health}}, pages 345--357, Los
+  Angeles, United States, August 2015. {Springer}.
+
+\bibitem{morel:hal-00805851}
+G{\'e}rard Morel, Jean-Marc Dupont, Romain Lieber, Fabien Bouffaron, Dominique
+  M{\'e}ry, Fr{\'e}d{\'e}rique Mayer, and Jean-Luc Marty.
+\newblock {Sp{\'e}cification d'exigences physico-physiologiques d'interaction
+  homme-machine en ing{\'e}nierie syst{\`e}me}.
+\newblock {\em {G{\'e}nie logiciel : le magazine de l'ing{\'e}nierie du
+  logiciel et des syst{\`e}mes}}, Mars 2013(104):29--39, March 2013.
+\newblock 10 pages.
+
+\bibitem{morel:inria-00100068}
+G{\'e}rard Morel, Dominique M{\'e}ry, Jean-Baptiste L{\'e}ger, and Thierry
+  Lecomte.
+\newblock {Proof-Oriented Fault-Tolerant Systems Engineering : Rationales,
+  Experiments and Open Issues}.
+\newblock In {\em {7th IFAC Symposium on Cost Oriented Automation - COA'2004}},
+  Gatineau, Qu{\'e}bec, Canada, 2004.
+\newblock Colloque avec actes et comit{\'e} de lecture. nationale.
+
+\bibitem{mosbah:hal-01495802}
+Mohamed Mosbah, Mohamed Tounsi, and Dominique Mery.
+\newblock {From Event-B specifications to programs for distributed algorithms}.
+\newblock {\em {International journal of autonomous and adaptive communications
+  systems}}, 9(3-4):223 -- 242, 2016.
+
+\bibitem{panetto:hal-00120944}
+Herv{\'e} Panetto, Jean-Fran{\c c}ois P{\'e}tin, and Dominique M{\'e}ry.
+\newblock {Formalisation of enterprise modelling standards using UML and the B
+  method.}
+\newblock In {\em {8th International Conference on Concurrent Enterprising,
+  ICE2002}}, ISBN : 0 85358 113 4, pages 93--101, Rome, Italy, June 2002.
+  {ESOCE}.
+
+\bibitem{perrin:inria-00098635}
+Guy-Ren{\'e} Perrin and Dominique M{\'e}ry.
+\newblock {\em {RenPar'10}}.
+\newblock {ULP}, 1998.
+\newblock Ouvrage (auteur).
+
+\bibitem{petin:inria-00098406}
+Jean-Fran{\c c}ois P{\'e}tin, G{\'e}rard Morel, Dominique M{\'e}ry, and Patrick
+  Lamboley.
+\newblock {Process control engineering: contribution to a formal structuring
+  framework with the B method}.
+\newblock In Didier Bert, editor, {\em {The 2nd International B Conference}},
+  volume 1393 of {\em Lecture Notes in Computer Science}, pages 198--209,
+  Montpellier, France, 1998. {Springer Verlag}.
+\newblock Colloque avec actes et comit{\'e} de lecture.
+
+\bibitem{proch:inria-00100222}
+Cyril Proch, Dominique Cansell, and Dominique Mery.
+\newblock {Projet RNRT EQUAST ; SP2 Sp{\'e}cification incr{\'e}mentale du
+  syst{\`e}me}, 2004.
+\newblock Rapport interne.
+
+\bibitem{raschke:hal-04620616}
+Alexander Raschke and Dominique M{\'e}ry.
+\newblock {An automotive case study}.
+\newblock {\em {International Journal on Software Tools for Technology
+  Transfer}}, 26(3):327--330, May 2024.
+
+\bibitem{raschke:hal-02999312}
+Alexander Raschke, Dominique M{\'e}ry, and Frank Houdek, editors.
+\newblock {\em {Rigorous State-Based Methods - 7th International Conference,
+  {ABZ} 2020, Ulm, Germany, May 27-29, 2020, Proceedings}}, volume Lecture
+  Notes in Computer Science of {\em Rigorous State-Based Methods - 7th
+  International Conference, {ABZ} 2020, Ulm, Germany, May 27-29, 2020,
+  Proceedings}, ULM, Germany, May 2020. {Alexander Raschke}, {Springer}.
+
+\bibitem{siebert:inria-00435569}
+Julien Siebert, Joris Rehm, Vincent Chevrier, Laurent Ciarletta, and Dominique
+  M{\'e}ry.
+\newblock {AA4MM coordination model and event-B specification}, 2009.
+
+\bibitem{singh:hal-03224780}
+Neeraj~Kumar Singh, Yamine A{\"i}t-Ameur, Romain Geniet, Dominique M{\'e}ry,
+  and Philippe Palanque.
+\newblock {On the Benefits of Using MVC Pattern for Structuring Event-B Models
+  of WIMP Interactive Applications}.
+\newblock {\em {Interacting with Computers}}, May 2021.
+
+\bibitem{singh:hal-03617603}
+Neeraj~Kumar Singh, Yamine A{\"i}t-Ameur, Ismail Mendil, Dominique M{\'e}ry,
+  David Navarre, Philippe Palanque, and Marc Pantel.
+\newblock {F3FLUID: A formal framework for developing safety-critical
+  interactive systems in FLUID}.
+\newblock {\em {Journal of Software: Evolution and Process}}, March 2023.
+\newblock Early View = Online Version of Record before inclusion in an issue :
+  e2439.
+
+\bibitem{singh:hal-02353400}
+Neeraj~Kumar Singh, Yamine A{\"i}t-Ameur, and Dominique Mery.
+\newblock {Formal Ontology Driven Model Refactoring}.
+\newblock In {\em {2018 23rd International Conference on Engineering of Complex
+  Computer Systems (ICECCS)}}, 2018 23rd International Conference on
+  Engineering of Complex Computer Systems (ICECCS), pages 136--145, Melbourne,
+  Australia, December 2018. {IEEE}.
+
+\bibitem{singh:hal-03199742}
+Neeraj~Kumar Singh, Yamine A{\"i}t-Ameur, and Dominique M{\'e}ry.
+\newblock {\em {Formal Ontological Analysis for Medical Protocols}}.
+\newblock {Springer}, January 2021.
+
+\bibitem{singh:hal-02942767}
+Neeraj~Kumar Singh, Yamine A{\"i}t-Ameur, Dominique M{\'e}ry, David Navarre,
+  Philippe Palanque, and Marc Pantel.
+\newblock {Formal Development of Multi-Purpose Interactive Application (MPIA)
+  for ARINC 661}.
+\newblock In {\em {7th International Workshop on Formal Techniques for
+  Safety-Critical Systems (FTSCS 2019)}}, volume 1165, pages 21--39, Shenzhen,
+  China, November 2019.
+
+\bibitem{singh:hal-01216779}
+Neeraj~Kumar Singh and Dominique M{\'e}ry.
+\newblock {\em {Event B (english version)}}.
+\newblock Formal Methods Applied to Complex Systems. {Wiley}, July 2014.
+
+\bibitem{tounsi:hal-00361933}
+Mohamed Tounsi, Ahmed Hadj~Kacem, Mohamed Mosbah, and Dominique M{\'e}ry.
+\newblock {A Refinement Approach for Proving Distributed Algorithms : Examples
+  of Spanning Tree Problems}.
+\newblock In {\em {Integration of Model-based Formal Methods and Tools -
+  IM\_FMT'2009 - in IFM'2009}}, D{\"u}sseldorf, Germany, February 2009.
+
+\bibitem{tounsi:hal-00644187}
+Mohamed Tounsi, Mohamed Mosbah, and Dominique M{\'e}ry.
+\newblock {Proving Distributed Algorithms by Combining Refinement and Local
+  Computations}.
+\newblock {\em {Electronic Communications of the EASST}}, 35:ISSN 1863--2122,
+  November 2011.
+
+\bibitem{tounsi:hal-00862056}
+Mohammed Tounsi, Mohammed Mosbah, and Dominique M{\'e}ry.
+\newblock {From Event-B Specifications to Programs for Distributed Algorithms}.
+\newblock In Sumitra Reddy and Mohammed Jmaiel, editors, {\em {WETICE 2013:
+  22th IEEE International Conference on Enabling Technologies: Infrastructures
+  for Collaborative Enterprises.}}, 22nd IEEE WETICE Conference, Hammamet,
+  Tunisia, June 2013. {IEEE}.
+
+\end{thebibliography}

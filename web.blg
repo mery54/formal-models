@@ -1,0 +1,131 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: web.aux
+The style file: plain.bst
+Database file #1: mybib.bib
+Warning--entry type for "cheng:hal-02895528" isn't style-file defined
+--line 18 of file mybib.bib
+Warning--entry type for "abdelwahed:hal-01933975" isn't style-file defined
+--line 101 of file mybib.bib
+I was expecting a `,' or a `}'---line 250 of file mybib.bib
+ :   keywords = {composition of specifications} 
+ :                                              ; sp{\'e}cification formelle ; formal specification ; B Method ; telecommunications ; services ; features interaction ; m{\'e}thode B ; services de t{\'e}l{\'e}communication ; interaction de services ; composition de sp{\'e}cifications},
+I'm skipping whatever remains of this entry
+Warning--entry type for "mery:inria-00465061" isn't style-file defined
+--line 284 of file mybib.bib
+Warning--entry type for "dupont:hal-00769223" isn't style-file defined
+--line 340 of file mybib.bib
+Warning--entry type for "mery:inria-00584177" isn't style-file defined
+--line 774 of file mybib.bib
+Warning--entry type for "andriamiarina:hal-01018162" isn't style-file defined
+--line 877 of file mybib.bib
+Warning--entry type for "proch:inria-00100222" isn't style-file defined
+--line 900 of file mybib.bib
+Warning--entry type for "cansell:inria-00101076" isn't style-file defined
+--line 1254 of file mybib.bib
+Warning--entry type for "cansell:inria-00099343" isn't style-file defined
+--line 1266 of file mybib.bib
+Warning--entry type for "cansell:inria-00000857" isn't style-file defined
+--line 1355 of file mybib.bib
+Warning--entry type for "mery:inria-00600339" isn't style-file defined
+--line 1429 of file mybib.bib
+Warning--entry type for "laleau:hal-01933762" isn't style-file defined
+--line 1457 of file mybib.bib
+Warning--entry type for "mery:hal-00971787" isn't style-file defined
+--line 1486 of file mybib.bib
+I was expecting a `,' or a `}'---line 1498 of file mybib.bib
+ : 
+ : @article{mery:hal-01245819,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "andriamiarina:inria-00606254" isn't style-file defined
+--line 1841 of file mybib.bib
+Warning--entry type for "siebert:inria-00435569" isn't style-file defined
+--line 2159 of file mybib.bib
+Warning--entry type for "mery:tel-01753615" isn't style-file defined
+--line 2215 of file mybib.bib
+Warning--entry type for "mery:inria-00419973" isn't style-file defined
+--line 2260 of file mybib.bib
+Warning--entry type for "dubois:hal-01652413" isn't style-file defined
+--line 2474 of file mybib.bib
+Warning--entry type for "benaissa:inria-00336655" isn't style-file defined
+--line 2486 of file mybib.bib
+Warning--entry type for "cansell:inria-00593372" isn't style-file defined
+--line 2693 of file mybib.bib
+Warning--entry type for "cirstea:hal-02572971" isn't style-file defined
+--line 2796 of file mybib.bib
+Warning--to sort, need editor, organization, or key in raschke:hal-03529208
+Warning--to sort, need editor, organization, or key in glasser:hal-04183902
+Warning--to sort, need editor, organization, or key in s:hal-03529572
+Warning--to sort, need editor, organization, or key in abdelwahed:hal-03376084
+Warning--can't use both volume and number fields in aitameur:hal-01097624
+Warning--can't use both author and editor fields in aitameur:hal-03250787
+Warning--empty chapter and pages in andriamiarina:hal-01246669
+Warning--can't use both author and editor fields in cansell:inria-00099264
+Warning--empty chapter and pages in cansell:inria-00099264
+Warning--can't use both author and editor fields in cansell:inria-00096696
+Warning--empty chapter and pages in cansell:inria-00096696
+Warning--can't use both author and editor fields in cansell:inria-00174023
+Warning--empty chapter and pages in cansell:inria-00174023
+Warning--can't use both author and editor fields in cansell:inria-00579550
+Warning--there's a number but no volume in cansell:inria-00000196
+Warning--can't use both author and editor fields in dubois:hal-00987531
+Warning--empty booktitle in evrot:hal-00120743
+Warning--can't use both author and editor fields in giannakopoulou:hal-00743808
+Warning--can't use both author and editor fields in gibson:inria-00099324
+Warning--empty chapter and pages in gibson:inria-00099324
+Warning--there's a number but no volume in lecomte:inria-00184827
+Warning--can't use both author and editor fields in mery:hal-00744242
+Warning--empty chapter and pages in mery:hal-03199748
+Warning--can't use both author and editor fields in mery:inria-00539785
+Warning--can't use both volume and number fields in mery:hal-01369425
+Warning--can't use both author and editor fields in mery:hal-00762821
+Warning--can't use both author and editor fields in mery:hal-00762822
+Warning--can't use both author and editor fields in mery:hal-00926335
+Warning--empty chapter and pages in mery:hal-00926335
+Warning--can't use both volume and number fields in raschke:hal-02999312
+Warning--empty chapter and pages in singh:hal-03199742
+Warning--can't use both author and editor fields in singh:hal-01216779
+Warning--empty chapter and pages in singh:hal-01216779
+You've used 195 entries,
+            2118 wiz_defined-function locations,
+            1633 strings with 48869 characters,
+and the built_in function-call counts, 72932 in all, are:
+= -- 7066
+> -- 3670
+< -- 129
++ -- 1376
+- -- 1181
+* -- 5128
+:= -- 11727
+add.period$ -- 702
+call.type$ -- 195
+change.case$ -- 1086
+chr.to.int$ -- 0
+cite$ -- 228
+duplicate$ -- 3103
+empty$ -- 5652
+format.name$ -- 1181
+if$ -- 16002
+int.to.chr$ -- 0
+int.to.str$ -- 195
+missing$ -- 186
+newline$ -- 1008
+num.names$ -- 495
+pop$ -- 1408
+preamble$ -- 1
+purify$ -- 922
+quote$ -- 0
+skip$ -- 2185
+stack$ -- 0
+substring$ -- 3050
+swap$ -- 975
+text.length$ -- 129
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 725
+warning$ -- 33
+while$ -- 602
+width$ -- 198
+write$ -- 2394
+(There were 2 error messages)
